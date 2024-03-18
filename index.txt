@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hello , Jatin here
+=======
+Hello...My name is Jatin Garg
+>>>>>>> 78e38a98e5ce7de2b3de3458d8e10d0a492a801a
